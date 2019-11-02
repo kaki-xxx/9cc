@@ -129,3 +129,4 @@ fabric.properties
 tmp*
 a.out
 9cc
+compile_commands.json
